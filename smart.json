@@ -8,6 +8,6 @@
   "packages": {
       "ngMeteor": {},
       "angular-ui-utils": {},
-      "angular-bootsrap": {}
+      "angular-bootstrap": {}
   }
 }
