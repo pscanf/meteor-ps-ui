@@ -3,7 +3,7 @@
   "description": "A series of useful angularjs directives.",
   "homepage": "https://github.com/pscanf/meteor-ps-ui",
   "author": "Paolo Scanferla <paolo.scanferla@gmail.com> (https://github.com/pscanf)",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "git": "https://github.com/pscanf/meteor-ps-ui.git",
   "packages": {
       "ngMeteor": {},
